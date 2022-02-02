@@ -36,5 +36,5 @@
   4. Display Date/Time
   5. Illuminate display only for 1 min after button pressed
   6. 24 hour max/min
-  7. Save data to SD Cadr
+  7. Save data to SD Card
 
